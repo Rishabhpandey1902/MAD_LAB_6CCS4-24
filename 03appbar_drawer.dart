@@ -19,7 +19,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Bhawuk Arora"),
+        title: Text("Rishabh Pandey"),
         backgroundColor: Color.fromARGB(255, 100, 150, 255), 
       ),
       drawer: Drawer(
@@ -55,7 +55,7 @@ class HomeScreen extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          "Bhawuk",
+          "Rishabh",
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.bold,
